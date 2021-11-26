@@ -1,0 +1,3 @@
+Ming Yang
+101287844
+Git repository created from AWS EC2 instance
